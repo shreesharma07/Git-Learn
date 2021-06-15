@@ -1,6 +1,6 @@
 # Git-Learn
 <p align="center">
-  <img src="https://github.com/shreesharma07/Node-Js-Revised/blob/main/New%20Project/Demo%201/node.png" alt="Node-Js-Revised">
+  <img src="https://github.com/shreesharma07/Git-Learn/blob/main/Logo/git_original.png" alt="Node-Js-Revised">
 </p>
 
 ## About Repository
