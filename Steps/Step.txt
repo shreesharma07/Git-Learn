@@ -1,3 +1,5 @@
+Steps to Be followed ::
+
 Step 1 : Create Fils/Folders
 Step 2 : Move to the Files via command through BASH/Terminal
 Step 3 : Add Contents
@@ -12,6 +14,10 @@ Step 5 : Make Changes through the following command as "git push"
         Add the Files using :: `git add <path/file_name>`
     Then Again, See Changes,
         `git status` 
+    T
 */
 
-// then Repeat Step 4 and 5, to make Permanent chnages to the Remote Repository. //
+// Then Exexute `git commit -m <message>` //
+/*
+    Repeat Step 5 : So as to make Permanent Changes to the Remote Repository.
+*/
