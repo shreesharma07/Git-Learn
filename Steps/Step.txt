@@ -1,7 +1,7 @@
 Step 1 : Create Fils/Folders
 Step 2 : Move to the Files via command through BASH/Terminal
 Step 3 : Add Contents
-Step 4 : Commit Changes by following command as "git commit -m "<message>" --pat
+Step 4 : Commit Changes by following command as "git commit -m "<message>" --patch
 Step 5 : Make Changes through the following command as "git push"
 
 // If You're Unable to execute chnages via `git push` // 
