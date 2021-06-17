@@ -1,0 +1,3 @@
+// Adding New File //
+
+String = 'This is a simple Log Text File'
