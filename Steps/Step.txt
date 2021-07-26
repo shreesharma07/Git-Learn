@@ -9,14 +9,14 @@ Step 5 : Make Changes through the following command as "git push"
 // If You're Unable to execute chnages via `git push` // 
 /*
     Then Add Changes - 
-    View What to Change :: `git status`
+    View What to Change :: ``git status``
         If Files are asked to be Added then, 
-        Add the Files using :: `git add <path/file_name>`
+        Add the Files using :: ``git add <path/file_name>`` or ``git add .`` to add stage all changes for commit.
     Then Again, See Changes,
         `git status` 
 */
 
-// Then Exexute `git commit -m <message>` //
+// Then Exexute ``git commit -m <message>`` //
 /*
     Repeat Step 5 : So as to make Permanent Changes to the Remote Repository.
 */
