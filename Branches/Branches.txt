@@ -25,3 +25,5 @@ Step 1 : Use ``git branch <branch_name>`` and then checkout using ``git checkout
 Step 2 : Stage all changes.
 Step 3 : Commit All changes.
 Step 4 : Push Your Changes to Remote Repository.
+
+// -- Steps to ``Merge`` Branches Will Be Covered Later -- //
