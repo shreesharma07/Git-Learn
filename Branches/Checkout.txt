@@ -1,0 +1,9 @@
+// Git Checkout //
+/*
+    -- "Checkout" is the act of switching between different versions of a target entity.
+    -- "checkout" command operated upon three distint entities: files, commits and branches.
+    -- "checking out" is commonly used to imply the act of executing the `git checkout` command.
+*/
+
+// Syntax //
+git checkout <branch_name>
