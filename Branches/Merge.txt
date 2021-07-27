@@ -1,0 +1,18 @@
+// Git Merge //
+-->  Merge is Git's way of putting forked history backed together again.
+-->  The "Git Merge" command lets tyou take the independent lines of
+    development created by "Git Branch" and integrate them into a single branch.
+
+--> How It Works ?
+    - Git Merge will combine multiple sequence of commits into one unified history.
+    - In most frequent use cases, git merge used to combine two branches.
+    - "Git Merge" takes two commit pointers usually the branch tips and will find a common base commit and,
+       it will create a new "Merge Commit" that combines the changes of each queued merge commit sequence. 
+
+// Steps for Merging two Branches //
+Step 1 : Add Changes
+Step 2 : Commit Changes
+Step 3 : Push the Changes
+Step 4 : Move to the branch where you want to merge the current working branch.
+Step 5 : Use Command -- ``git merge <branch_name>`` E.g. : ``git merge Feature``
+Step 6 : You can delete the branch using "git branch -D <branch_name>" E.g. : ``git branch -D Feature``
