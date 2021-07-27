@@ -24,4 +24,4 @@ Step 1 : Use ``git branch <branch_name>`` and then checkout using ``git checkout
 => Add/Modify Contents <=
 Step 2 : Stage all changes.
 Step 3 : Commit All changes.
-Step 4 : Push Your Changes to Remote Repository. 
+Step 4 : Push Your Changes to Remote Repository.
