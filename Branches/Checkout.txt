@@ -5,5 +5,13 @@
     -- "checking out" is commonly used to imply the act of executing the `git checkout` command.
 */
 
+/*
+    -- Checking out branches is similar to checking out old commits,
+    -- and files in that the working directory is updated to match the selected branch/revision;
+    -- however, new changes are saved in the project history—that is, it’s not a read-only operation.
+*/
+
 // Syntax //
-git checkout <branch_name>
+    git checkout <branch_name>
+// Example //
+    git checkout Feature
