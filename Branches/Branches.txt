@@ -1,3 +1,4 @@
+// ------------------------- //
 // Creating Branches //
 /*
     -- Commands for Branches
@@ -11,3 +12,16 @@
         ->  ``git branch -m <branch_name>`` - Rename the current branch to <branch>.
         ->  ``git branch -a`` - List all remote branches. 
 */
+
+// ------------------------- // 
+// Steps to Create a Branch and the Merge it with Main/HEAD Branch //
+// To create a new branch and switch to it at the same time, you can run the git checkout command with the -b switch //
+
+Step 1 : Create a Branch using ``git checkout -b <branch_name>``
+    or 
+Step 1 : Use ``git branch <branch_name>`` and then checkout using ``git checkout <branch_name>`` 
+
+=> Add/Modify Contents <=
+Step 2 : Stage all changes.
+Step 3 : Commit All changes.
+Step 4 : Push Your Changes to Remote Repository. 
