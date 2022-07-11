@@ -10,4 +10,3 @@ A repository to learn few basics commands that'll be helpful to understand Git &
 # Developer & Author ~
 ## [Shree Kumar Sharma](https://www.linkedin.com/in/shree-kumar-sharma-644167195/) - NodeJs Developer @ PrepLadder
    * [Instagram](https://www.instagram.com/shree_kumar_sharma/)
-   * [Twitter](https://twitter.com/shree_kr_sharma) 
